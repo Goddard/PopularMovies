@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+    <string name="results">results</string>
+    <string name="api_key"></string>
+
+    <string name="movie_type_key">POPMOVIE</string>
+
+    <string name="pref_label">Sort Order</string>
+    <string name="pref_sort_key">SORT_KEY</string>
+    <string name="pref_sort_default">@string/sort_popular_key</string>
+    <string name="sort_popular_label">Most Popular</string>
+    <string name="sort_rating_label">Highest Rated</string>
+    <string name="sort_popular_key">popularity.desc</string>
+    <string name="sort_rating_key">vote_average.desc</string>
+
+    <string name="no_internet">No Internet Brother!</string>
+
+    <string name="settings_title">Settings</string>
+    <string name="error">Error</string>
+    <string name="no_summary">No Summary</string>
+    <string name="no_release_date">No Release Date in database</string>
+</resources>
